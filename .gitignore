@@ -26,3 +26,6 @@ yolov5xu.pt
 input_videos/
 *.mp4
 *.avi
+
+# Screenshots
+Screenshot.png
