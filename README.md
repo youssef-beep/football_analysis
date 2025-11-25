@@ -11,7 +11,7 @@ This project analyzes football match videos to track players and the ball, estim
 - **Ball Possession:** Determines which player and team has possession of the ball.
 
 ## Screenshot
-![Screenshot Description](Screenshot 2025-11-25 040835.png)
+![Screenshot Description](Screenshot.png)
 
 ## Installation
 
