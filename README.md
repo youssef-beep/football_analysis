@@ -1,7 +1,6 @@
 # Football Analysis
 
 This project analyzes football match videos to track players and the ball, estimate their speed and distance, assign teams, and determine ball possession.
-
 ## Features
 
 - **Object Tracking:** Tracks players and the ball using a YOLO model.
@@ -10,6 +9,9 @@ This project analyzes football match videos to track players and the ball, estim
 - **Speed and Distance Estimation:** Calculates the speed and distance covered by each player.
 - **Team Assignment:** Assigns players to teams based on their jersey color.
 - **Ball Possession:** Determines which player and team has possession of the ball.
+
+## Screenshot
+![Screenshot Description](path/to/your/screenshot.png)
 
 ## Installation
 
