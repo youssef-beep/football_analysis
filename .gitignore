@@ -1,0 +1,28 @@
+# Virtual environment
+venv310/
+*.sln
+*.suo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+output_videos/
+
+# Stubs
+stubs/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+development_and_analysis/
+
+# Model files
+*.pt
+yolo11n.pt
+yolov5xu.pt
+
+# Don't add videos to git
+input_videos/
+*.mp4
+*.avi
